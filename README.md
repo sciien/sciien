@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hello</h1>
+<h1 align="center">👋, Hello</h1>
 <h3 align="center">Hello! I am a high school student with a great interest in technology and science. My passion for software development has led me to work on various projects over time. I enjoy coding and learning new technologies. In my free time, I develop various projects and share them here. This process allows me to both have fun and improve myself. Each project offers a new opportunity for learning and discovery, and I take great pleasure in sharing the knowledge and experience I gain throughout this journey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sciien&label=Profile%20views&color=0e75b6&style=flat" alt="sciien" /> </p>
